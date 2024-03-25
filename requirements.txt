@@ -1,0 +1,6 @@
+SpeechRecognition
+pip 
+pyaudio
+datetime
+wikipedia
+webbrowser
